@@ -1,7 +1,7 @@
 <h1 align="center">Fuck
     </p>
     <p align="center">
-        <img src="https://cdn-127.anonfiles.com/Bd9fQcW8u4/45631a79-1637697485/index.png">
+        <img src="https://i.imgur.com/Tr8JkIm.png">
         <h2 align="center"> ==MY GITHUB STATISTICS==
             <p align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xandertron&amp;langs_count=8&amp;layout=compact&amp;theme=light&amp;hide_border=true&amp;hide=golo&amp;bg_color=0000&amp;text_color=666666" alt="Languages">
