@@ -1,4 +1,4 @@
-based coder
-cant actually remember to push to github
-???
-profit
+1. based coder
+2. cant actually remember to push to github
+3. ???
+4. profit
